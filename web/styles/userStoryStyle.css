@@ -1,0 +1,27 @@
+.tshirtButton {
+    /*width: 2cm;
+    height: 4cm;*/
+   /* background-size: 150px 250px;*/
+}
+
+/*
+#line-graph, #updateProgress{
+    display: none;
+}*/
+
+/*#updateChart{
+    margin-left: 24cm;
+}*/
+
+#line-chart{
+    float:right;
+}
+
+#planningPokerValues {
+    float:left;
+    margin-top: 0.5cm;
+    width: 21cm;
+    height: 9cm;
+    overflow: scroll;
+}
+

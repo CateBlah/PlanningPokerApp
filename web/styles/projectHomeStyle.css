@@ -1,0 +1,36 @@
+#addMemberForm{
+    display: none;
+}
+
+#addTaskForm{
+    display: none;
+}
+#memberList{
+    color: mediumpurple;
+
+}
+
+#projectMembers{
+    margin-right: 1cm;
+}
+
+#members{
+    float: right;
+    /*margin-top: -5cm;*/
+}
+
+#addMemberError{
+    display: none;
+}
+
+#dropdownMenu3{
+    background-color: purple;
+}
+
+#dropdownMenu2{
+    background-color: forestgreen;
+}
+
+.container-fluid{
+    background-color: whitesmoke;
+}
